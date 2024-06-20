@@ -43,7 +43,7 @@ uHate uCam is a Chrome extension that automates Evaluation before mid and final 
 #### Step 1: Clone the Repository
 First, clone the repository from GitHub to your local machine.
 ```bash
-git clone https://github.com/ismailariyan/ucam_evaluation_automation_chrome_extension.git
+git clone https://github.com/ismailariyan/evaluation_form_autosubmitter.git
 ```
 
 #### Step 2: Enable Developer Mode in Chrome
@@ -65,7 +65,7 @@ Your extension should now be loaded and enabled in Chrome.
 
 ## 🤝 Contributing
 
-If you find this extension helpful, please consider giving it a star ⭐  on this [GitHub](https://github.com/ismailariyan/ucam_evaluation_automation_chrome_extension) repo. Your support is much appreciated!
+If you find this extension helpful, please consider giving it a star ⭐  on this [GitHub](https://github.com/ismailariyan/evaluation_form_autosubmitter) repo. Your support is much appreciated!
 
 
 
