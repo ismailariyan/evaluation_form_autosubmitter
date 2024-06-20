@@ -18,8 +18,6 @@
 - [💫 Features](#-features)
 - [📦 Installation](#-installation)
 - [👩‍💻 Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
 
 
@@ -63,15 +61,9 @@ Your extension should now be loaded and enabled in Chrome.
 
 
 
-## 🤝 Contributing
+## 🤝 Acknowledgments
 
 If you find this extension helpful, please consider giving it a star ⭐  on this [GitHub](https://github.com/ismailariyan/evaluation_form_autosubmitter) repo. Your support is much appreciated!
-
-
-
-## 👏 Acknowledgments
-
-Thanks for using uHate uCam! If you have any questions or suggestions, feel free to open an issue on GitHub.
 
 
 
